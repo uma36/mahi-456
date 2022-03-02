@@ -1,0 +1,6 @@
+import numpy
+A=[ [1, 2], [3, 5], [6, 7] ]
+B=[ [5, 7], [1, 2], [5, 3] ]
+
+print("Result: ")
+print(numpy.subtract(A,B))
